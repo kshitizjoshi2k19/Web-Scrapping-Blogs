@@ -1,2 +1,2 @@
 # Web-Scrapping-Blogs
-A web scrapper used for scrapping an Indian Blogging website
+A web scrapping tool used for scrapping an Indian Blogging website with Python.
